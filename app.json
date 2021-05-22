@@ -1,0 +1,11 @@
+{
+    "name": "teneo-sabre-connector",
+    "description": "A Teneo connector for Sabre APIs.",
+    "keywords": [
+        "chatbot",
+        "connector",
+        "Teneo",
+        "Sabre"
+    ],
+    "repository": "https://github.com/delsolarvaldes/teneo-sabre-connector"
+}
