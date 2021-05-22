@@ -402,22 +402,6 @@ router.post("/book", function (req, res, next) {
 
 router.post("/bargain-finder-max", function (req, res, next) {
   let body = req.body;
-  // body = {
-  //   pcc: "V8TK",
-  //   token: "zzz",
-  //   maxResults: 5,
-  //   seatsRequested: 1,
-  //   outbound: {
-  //     departureLocationCode: "DEN",
-  //     departureTime: "2021-02-19T00:00:00",
-  //     destinationLocationCode: "MSP",
-  //   },
-  //   inbound: {
-  //     departureLocationCode: "MSP",
-  //     departureTime: "2026-02-19T00:00:00",
-  //     destinationLocationCode: "DEN",
-  //   },
-  // };
   var data = JSON.stringify({
     OTA_AirLowFareSearchRQ: {
       Version: "4.3.0",

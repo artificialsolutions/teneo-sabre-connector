@@ -1,1 +1,0 @@
-DEBUG=sabre:* npm start
