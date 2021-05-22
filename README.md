@@ -26,9 +26,11 @@ Copy your Teneo Sabre Connector endpoint from Heroku (e.g., https://teneo-sabre-
 ## Running the Connector locally
 
 1. Open a new terminal.
-1. Navigate to your teneo-sabre-connector directory.
-2. Start Node.js application: npm start
-3. Open another terminal and run ngrok: ngrok http 3003
+2. Clone this repository.
+3. Navigate to your new "teneo-sabre-connector" repository --> cd teneo-sabre-connector
+4. Start Node.js application --> npm start
+* If this is the first time you are running the connector after cloning the repository, you may need to run "npm install"
+5. Open another terminal and run ngrok --> ngrok http 3003
 
 Copy your Teneo Sabre Connector endpoint from Ngrok (e.g., https://78d83402c15b.ngrok.io)
 
