@@ -12,7 +12,7 @@ In addition to pre-built flows, the Teneo Sabre Connector includes a Node.js app
 
 Thanks to this access, developers are able to implement not only the main conversational booking workflow, but also other follow-up questions like “Is there meal service onboard?”, “What is the distance between those two airports?” or “What is the duration of my flights?”.
 
-Read more about Teneo: https://developers.artificial-solutions.com/
+Read more about Teneo: https://developers.teneo.ai/
 Read more about Sabre: https://developer.sabre.com/guides/travel-agency/workflows/air-booking
 
 ## Deploying the Connector on Heroku
